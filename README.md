@@ -1,6 +1,6 @@
-# Watt A Shop
+# Pure Watt Market
 
-Welcome to the repository for **Watt A Shop**, a modern e-commerce platform built using React with TypeScript, Vite, Yarn, TailwindCSS, and Zustand. This application provides a seamless shopping experience with features like product search, product selection, cart management, and order review.
+Welcome to the repository for **Pure Watt Market**, a modern e-commerce platform built using React with TypeScript, Vite, Yarn, TailwindCSS, and Zustand. This application provides a seamless shopping experience with features like product search, product selection, cart management, and order review.
 
 ## Table of Contents
 
@@ -38,13 +38,13 @@ To get started with **Your E-commerce Website**, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/afsaa/watt-a-shop.git
+   git clone https://github.com/afsaa/pure-watt-market.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd watt-a-shop
+   cd pure-watt-market
    ```
 
 3. Install project dependencies using Yarn:
@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/afsaa/watt-a-shop.git
+   git clone https://github.com/afsaa/pure-watt-market.git
    ```
 
 3. Create a new branch for your feature or bug fix:
